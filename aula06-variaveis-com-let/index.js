@@ -4,3 +4,7 @@ console.log(nome)
 
 nome = 'Luiz'
 console.log(nome)
+
+let n = 50
+
+console.log(n)

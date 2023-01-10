@@ -8,3 +8,7 @@
 - Case-sensitive
 - Não podemos redeclarar variáveis com _let_
 - _NÃO UTILIZE VAR, UTILIZE LET._
+
+### Constantes
+
+- Não pode modificar o valor da constante
